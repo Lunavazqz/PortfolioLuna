@@ -1,12 +1,5 @@
 [
   {
-    "name": "indexxx",
-    "path": "/indexxx",
-    "component": "/Users/luna/Desktop/PROGRAMACIÓN/Lunascroll/pages/indexxx.vue",
-    "chunkName": "pages/indexxx",
-    "_name": "_210e6895"
-  },
-  {
     "name": "pag2",
     "path": "/pag2",
     "component": "/Users/luna/Desktop/PROGRAMACIÓN/Lunascroll/pages/pag2.vue",
@@ -33,13 +26,6 @@
     "component": "/Users/luna/Desktop/PROGRAMACIÓN/Lunascroll/pages/pag5.vue",
     "chunkName": "pages/pag5",
     "_name": "_7479fca8"
-  },
-  {
-    "name": "page1",
-    "path": "/page1",
-    "component": "/Users/luna/Desktop/PROGRAMACIÓN/Lunascroll/pages/page1.vue",
-    "chunkName": "pages/page1",
-    "_name": "_448f6385"
   },
   {
     "name": "index",

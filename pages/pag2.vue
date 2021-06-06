@@ -9,7 +9,9 @@
 
     <div class="container">
       <h2 class="apartados">
-        <a class="especialidad" href="indexxx">HOME</a>
+        
+      
+        <a class="especialidad" href="/">HOME</a>
         <a class="especialidadnow" href="">COVERS</a>
         <a class="especialidad" href="pag3">MINI PROJECTS</a>
         <a class="especialidad" href="pag4">VIDEO</a>

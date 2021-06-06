@@ -10,7 +10,9 @@
 
     <div class="container">
       <h2 class="apartados">
-        <a class="especialidad" href="indexxx">HOME</a>
+
+        <a class="especialidad" href="/">HOME</a>
+       
         <a class="especialidad" href="pag2">COVERS</a>
         <a class="especialidad" href="pag3">MINI PROJECTS</a>
         <a class="especialidadnow" href="">VIDEO</a>
@@ -19,6 +21,7 @@
       </h2>
       <!--<div class="video" id="video">VIDEO</div>-->
       <div class="animate1"><video src="/juancho.mp4" loop width="100%" autoplay ></video></div>
+      
 
       
     </div>

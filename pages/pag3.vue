@@ -8,14 +8,15 @@
     </head>
     <div class="container">
       <h2 class="apartados">
-        <a class="especialidad" href="indexxx">HOME</a>
-        <a class="especialidad" href="pag2">COVERS</a>
+         <a class="especialidad" href="/">HOME</a>
+      <a class="especialidad" href="pag2">COVERS</a>
+     
         <a class="especialidadnow" href="">MINI PROJECTS</a>
         <a class="especialidad" href="pag4">VIDEO</a>
         <a class="especialidad" href="pag5">CONTACT</a>
       </h2>
 
-      <h3 class="mosca"></h3>
+ 
     </div>
     <div class="spacer s1"></div>
 
