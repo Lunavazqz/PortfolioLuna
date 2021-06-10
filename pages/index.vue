@@ -309,4 +309,14 @@
     visibility: visible;
   }
 }
+@media screen  and (max-width: 760px){
+    html,
+    body {
+      .especialidad {
+        font-size: 40px;
+      }
+        
+       
+    }
+}
 </style>

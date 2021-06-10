@@ -21,32 +21,32 @@
     <div class="spacer s1"></div>
 
     <div class="container2">
-      <img class="jon1" src="/JON1.png" width="100%" height="100%" alt="" />
+      <img class="jon1" src="/JON1-min.png" width="100%" height="100%" alt="" />
       <!-- <img class="jon1" src="/JON.png" width="100%" height="100%" alt="">-->
-      <img class="jon2" src="/JON2.png" width="100%" height="100%" alt="" />
-      <img class="jon3" src="/JON3.png" width="100%" height="100%" alt="" />
-      <img class="jon4" src="/JON4.png" width="100%" height="100%" alt="" />
-      <img class="jon5" src="/JON5.png" width="100%" height="100%" alt="" />
-      <img class="jon6" src="/JON6.png" width="100%" height="100%" alt="" />
+      <img class="jon2" src="/JON2-min.png" width="100%" height="100%" alt="" />
+      <img class="jon3" src="/JON3-min.png" width="100%" height="100%" alt="" />
+      <img class="jon4" src="/JON4-min.png" width="100%" height="100%" alt="" />
+      <img class="jon5" src="/JON5-min.png" width="100%" height="100%" alt="" />
+      <img class="jon6" src="/JON6-min.png" width="100%" height="100%" alt="" />
     </div>
     <div class="container3" id="container3">
       <img
         class="bimba1"
         id="animate1"
-        src="/bolso1.jpg"
+        src="/bolso1-min.jpg"
         width="100%"
         height="100%"
         alt=""
       />
-      <img class="bimba2" src="/bolso2.jpg" width="100%" height="100%" alt="" />
-      <img class="bimba3" src="/bolso3.jpg" width="100%" height="100%" alt="" />
+      <img class="bimba2" src="/bolso2-min.jpg" width="100%" height="100%" alt="" />
+      <img class="bimba3" src="/bolso3-min.jpg" width="100%" height="100%" alt="" />
     </div>
 
       <div class="flechita">>>></div>
       <div class="container4" id="container4">
         <img
           class="revista"
-          src="/revistatercero-10.jpg"
+          src="/revistatercero-10-min.jpg"
           width="100%"
           height="100%"
           alt=""
@@ -54,63 +54,63 @@
         <img
           class="revista"
           id="animate"
-          src="/revistatercero-01.jpg"
+          src="/revistatercero-01-min.jpg"
           width="100%"
           height="100%"
           alt=""
         />
         <img
           class="revista"
-          src="/revistatercero-02.jpg"
+          src="/revistatercero-02-min.jpg"
           width="100%"
           height="100%"
           alt=""
         />
         <img
           class="revista"
-          src="/revistatercero-03.jpg"
+          src="/revistatercero-03-min.jpg"
           width="100%"
           height="100%"
           alt=""
         />
         <img
           class="revista"
-          src="/revistatercero-04.jpg"
+          src="/revistatercero-04-min.jpg"
           width="100%"
           height="100%"
           alt=""
         />
         <img
           class="revista"
-          src="/revistatercero-05.jpg"
+          src="/revistatercero-05-min.jpg"
           width="100%"
           height="100%"
           alt=""
         />
         <img
           class="revista"
-          src="/revistatercero-06.jpg"
+          src="/revistatercero-06-min.jpg"
           width="100%"
           height="100%"
           alt=""
         />
         <img
           class="revista"
-          src="/revistatercero-07.jpg"
+          src="/revistatercero-07-min.jpg"
           width="100%"
           height="100%"
           alt=""
         />
         <img
           class="revista"
-          src="/revistatercero-08.jpg"
+          src="/revistatercero-08-min.jpg"
           width="100%"
           height="100%"
           alt=""
         />
         <img
           class="revista"
-          src="/revistatercero-09.jpg"
+          src="/revistatercero-09-min.jpg"
           width="100%"
           height="100%"
           alt=""
@@ -119,16 +119,16 @@
      <div class="flechita2">>>></div>
 
     <div class="container5" id="container5">
-      <img class="lucia" src="/lucia1.jpg" width="100%" height="100%" alt="" />
-      <img class="lucia" src="/lucia2.jpg" width="100%" height="100%" alt="" />
-      <img class="lucia" src="/lucia3.jpg" width="100%" height="100%" alt="" />
-      <img class="lucia" src="/lucia4.jpg" width="100%" height="100%" alt="" />
+      <img class="lucia" src="/lucia1-min.jpg" width="100%" height="100%" alt="" />
+      <img class="lucia" src="/lucia2-min.jpg" width="100%" height="100%" alt="" />
+      <img class="lucia" src="/lucia3-min.jpg" width="100%" height="100%" alt="" />
+      <img class="lucia" src="/lucia4-min.jpg" width="100%" height="100%" alt="" />
     </div>
     <div class="container6" id="container6">
       <video class="rave4" src="/videohadas.mp4" autoplay loop width="100%" alt=""></video>
-      <img class="rave1" src="/ravefairyM.jpg" width="100%" alt="" />
-       <img class="rave3" src="/ravefairyL.jpg" width="100%" alt="" />
-      <img class="rave2" src="/ravefairyseis.jpg" width="100%" alt="" />
+      <img class="rave1" src="/ravefairyM-min.jpg" width="100%" alt="" />
+       <img class="rave3" src="/ravefairyL-min.jpg" width="100%" alt="" />
+      <img class="rave2" src="/ravefairyseis-min.jpg" width="100%" alt="" />
      
       
     </div>

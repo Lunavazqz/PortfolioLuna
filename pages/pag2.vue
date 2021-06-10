@@ -25,16 +25,16 @@
      
 
       <div class="container2">
-        <div></div><div></div><div class="animate3"  ><img class="tres" src="/p.rosalia.jpg" width="100%" height="" alt=""/></div>
-        <div id="animate4"  ><img class="cuatro" src="/p.solounpoco.jpg" width="100%" height="" alt=""/></div><div></div>
-        <div id="animate5"  ><img class="cinco" src="/p.29.jpg" width="100%" height="" alt=""/></div><div></div>
-        <div id="animate6"  ><img class="seis" src="/p.6kiss.jpg" width="100%" height="" alt=""/></div><div></div>
-         <div id="animate7"  ><img class="siete" src="/p.29ad.jpg" width="100%" height="" alt=""/></div><div></div><div></div>
-        <div id="animate8"  ><img class="ocho" src="/p.llenoa.jpg" width="100%" height="" alt=""/></div><div></div><div></div>
-        <div id="animate9"  ><img class="nueve" src="/p.leaf.jpg" width="100%" height="" alt=""/></div><div></div>
-        <div id="animate10"  ><img class="diez" src="/p.lilbaby.jpg" width="100%" height="" alt=""/></div><div></div><div></div>
-        <div id="animate11"  ><img class="once" src="/p.magie.png" width="100%" height="" alt=""/></div>
-        <div id="animate12"  ><img class="docee" src="/p.coi.jpg" width="100%" height="" alt=""/></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div class="animate3"  ><img class="tres" src="/p.rosalia-min.jpg" width="100%" height="" alt=""/></div>
+        <div id="animate4"  ><img class="cuatro" src="/p.solounpoco-min.jpg" width="100%" height="" alt=""/></div><div></div>
+        <div id="animate5"  ><img class="cinco" src="/p.29-min.jpg" width="100%" height="" alt=""/></div><div></div>
+        <div id="animate6"  ><img class="seis" src="/p.6kiss-min.jpg" width="100%" height="" alt=""/></div><div></div>
+         <div id="animate7"  ><img class="siete" src="/p.29ad-min.jpg" width="100%" height="" alt=""/></div><div></div><div></div>
+        <div id="animate8"  ><img class="ocho" src="/p.llenoa-min.jpg" width="100%" height="" alt=""/></div><div></div><div></div>
+        <div id="animate9"  ><img class="nueve" src="/p.leaf-min.jpg" width="100%" height="" alt=""/></div><div></div>
+        <div id="animate10"  ><img class="diez" src="/p.lilbaby-min.jpg" width="100%" height="" alt=""/></div><div></div><div></div>
+        <div id="animate11"  ><img class="once" src="/p.magie-min.png" width="100%" height="" alt=""/></div>
+        <div id="animate12"  ><img class="docee" src="/p.coi-min.jpg" width="100%" height="" alt=""/></div><div></div><div></div><div></div><div></div>
         <div id="animate13"  ><img class="trece" src="/hadi.JPG" width="100%" height="" alt=""/></div>-->
       </div>
       
