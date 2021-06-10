@@ -8,16 +8,15 @@
     </head>
 
     <div class="container">
-      <h2 class="apartados">
+      <div class="apartados">
         
-      
-        <a class="especialidad" href="/">HOME</a>
-        <a class="especialidadnow" href="">COVERS</a>
+   <a class="especialidad" href="/">HOME</a>
+       
+        <a class="especialidadnow" href="pag2">COVERS</a>
         <a class="especialidad" href="pag3">MINI PROJECTS</a>
-        <a class="especialidad" href="pag4">VIDEO</a>
+        <a class="especialidad" href="">VIDEO</a>
         <a class="especialidad" href="pag5">CONTACT</a>
-        
-      </h2>
+      </div>
 
       <div class="covers1" id="covers1">COVERS</div>
 
@@ -196,33 +195,11 @@ for (var i = 0; i < revealElements.length; i++) {
 
 
 
-// wait for document ready
-		// build scene
-		
-	
-// build scenes
-/*	var revealElements = document.getElementsByClassName("hola");
-		for (var i=0; i<revealElements.length; i++) { // create a scene for each element
-			new ScrollMagic.Scene({
-								triggerElement: revealElements[i], // y value not modified, so we can use element as trigger as well
-								offset: 50,												 // start a little later
-								triggerHook: 0.9,
-							})
-							.setClassToggle(revealElements[i], "visible") // add class toggle
-							.addIndicators({name: "hola " + (i+1) }) // add indicators (requires plugin)
-							.addTo(controller);
-		}*/
+
 </script>
 
 <style lang="scss">
-/*.body{
-    background:src="v.guille.mp4"; no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
 
-}*/
 
 .container {
   margin: 0 auto;
@@ -231,6 +208,25 @@ for (var i = 0; i < revealElements.length; i++) {
 
   flex-direction: column;
   background-color: #18181F;
+  .apartados {
+   font-family: "1,617";
+  font-weight: bold;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-style: none;
+  text-decoration: none;
+  font-weight: 300;
+  font-size: 20px;
+  width: 100%;
+  padding-left: 9rem;
+  padding-right: 9rem;
+  padding-top: 2.5rem;
+  text-decoration: none;
+    text-decoration-color: unset;
+     color: #238F68; 
+     
+  }
 }
 .covers1{
   font-family: 'Pixel12x10';
@@ -332,16 +328,10 @@ for (var i = 0; i < revealElements.length; i++) {
 
 }
 
-
-
-
 }
 
 
 
-.title {
-  
-}
 .apartados {
    font-family: "1,617";
   font-weight: bold;

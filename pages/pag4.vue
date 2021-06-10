@@ -19,7 +19,7 @@
         <a class="especialidad" href="pag5">CONTACT</a>
        
       </h2>
-      <!--<div class="video" id="video">VIDEO</div>-->
+      
       <div class="animate1"><video src="/juancho.mp4" loop width="100%" autoplay ></video></div>
       
 
@@ -31,39 +31,12 @@
 
 
 <script>
-export default {
-  mounted() {
-  
-}}
 
 
-// wait for document ready
-		// build scene
-		
-	;
-// build scenes
-/*	var revealElements = document.getElementsByClassName("hola");
-		for (var i=0; i<revealElements.length; i++) { // create a scene for each element
-			new ScrollMagic.Scene({
-								triggerElement: revealElements[i], // y value not modified, so we can use element as trigger as well
-								offset: 50,												 // start a little later
-								triggerHook: 0.9,
-							})
-							.setClassToggle(revealElements[i], "visible") // add class toggle
-							.addIndicators({name: "hola " + (i+1) }) // add indicators (requires plugin)
-							.addTo(controller);
-		}*/
 </script>
 
 <style lang="scss">
-/*.body{
-    background:src="v.guille.mp4"; no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
 
-}*/
 .container {
   margin: 0 auto;
   min-height: 100vh;

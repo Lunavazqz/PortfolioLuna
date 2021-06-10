@@ -43,30 +43,14 @@ export default {
 						.setTween("#animate1", 0.4, {backgroundColor: "#238F68", scale: 2}) // trigger a TweenMax.to tween
 					
 						.addTo(controller);
-   /* var revealElements = document.getElementsByClassName(".h3");
-		for (var i=0; i<revealElements.length; i++) { // create a scene for each element
-			new this.$scrollmagic.Scene({
-								triggerElement: revealElements[i], // y value not modified, so we can use element as trigger as well
-								offset: 50,												 // start a little later
-								triggerHook: 0.9,
-							})
-							.setClassToggle(revealElements[i], "visible ") // add class toggle
-							
-							.addTo(controller);}*/
+
   },
 };
 
 </script>
 
 <style lang="scss">
-/*.body{
-    background:src="v.guille.mp4"; no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
 
-}*/
 .container {
   margin: 0 auto;
   min-height: 100vh;

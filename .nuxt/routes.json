@@ -3,30 +3,35 @@
     "name": "pag2",
     "path": "/pag2",
     "component": "/Users/luna/Desktop/PROGRAMACIÓN/Lunascroll/pages/pag2.vue",
-    "chunkName": "pages/pag2"
+    "chunkName": "pages/pag2",
+    "_name": "_74ce89ae"
   },
   {
     "name": "pag3",
     "path": "/pag3",
     "component": "/Users/luna/Desktop/PROGRAMACIÓN/Lunascroll/pages/pag3.vue",
-    "chunkName": "pages/pag3"
+    "chunkName": "pages/pag3",
+    "_name": "_74b25aac"
   },
   {
     "name": "pag4",
     "path": "/pag4",
     "component": "/Users/luna/Desktop/PROGRAMACIÓN/Lunascroll/pages/pag4.vue",
-    "chunkName": "pages/pag4"
+    "chunkName": "pages/pag4",
+    "_name": "_74962baa"
   },
   {
     "name": "pag5",
     "path": "/pag5",
     "component": "/Users/luna/Desktop/PROGRAMACIÓN/Lunascroll/pages/pag5.vue",
-    "chunkName": "pages/pag5"
+    "chunkName": "pages/pag5",
+    "_name": "_7479fca8"
   },
   {
     "name": "index",
     "path": "/",
     "component": "/Users/luna/Desktop/PROGRAMACIÓN/Lunascroll/pages/index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_3b551656"
   }
 ]
